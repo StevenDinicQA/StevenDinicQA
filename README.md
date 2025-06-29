@@ -9,8 +9,8 @@
 
 - **Test Automation**: Cypress, Playwright, Selenium  
 - **Languages**: JavaScript, TypeScript, Python (basic)  
-- **CI/CD**: GitHub Actions, Azure DevOps  
-- **Other Tools**: Postman, Git, VS Code, DevTools, Jira  
+- **CI/CD**: GitHub Actions, Azure DevOps, Jenkins  
+- **Other Tools**: Postman, Git, VS Code, ClickUp/Trello, Jira 
 
 ---
 
