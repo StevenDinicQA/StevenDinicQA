@@ -34,9 +34,7 @@ Each project demonstrates different parts of my skillset — from POM design to 
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/stevan-dinic-qa)  
-- 📧 stevan.dinic.qa@gmail.com
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/stevan-dini%C4%87-240a7b17b/)  
 ---
 
 _Thanks for stopping by!_ 🚀
