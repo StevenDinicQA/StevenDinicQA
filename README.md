@@ -20,7 +20,6 @@ Here are some of the automation projects I’ve worked on:
 
 - 🔗 [iCharter QA Automation (Cypress)](https://github.com/StevenDinicQA/iCharter)  
 - 🔗 [Rahul Shetty Demo E2E (Playwright)](https://github.com/StevenDinicQA/RahulShettyDemoPlaywright)  
-- 🔗 [ShopUSA QA Automation (Cypress)](https://github.com/StevenDinicQA/ShopUSA)  
 
 Each project demonstrates different parts of my skillset — from POM design to CI integration.
 
